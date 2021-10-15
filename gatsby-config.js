@@ -57,5 +57,7 @@ module.exports = {
         openAnalyzer: false,
       },
     },
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
   ].filter(Boolean),
 }
